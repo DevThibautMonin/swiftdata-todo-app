@@ -36,8 +36,16 @@ struct TodoList: View {
                                     .foregroundColor(todo.isCompleted ? .green : .gray)
                                     .font(.largeTitle)
                             }
-                            
-                        }.swipeActions {
+                        }
+                        .swipeActions {
+                            Button {
+                                todoEdit = todo
+                            } label: {
+                                Label("Edit", systemImage: "pencil")
+                                    .symbolVariant(.fill)
+                            }.tint(.orange)
+                        }
+                        .swipeActions(edge: .leading) {
                             Button(role: .destructive) {
                                 withAnimation(.bouncy) {
                                     modelContext.delete(object: todo)
@@ -46,13 +54,6 @@ struct TodoList: View {
                                 Label("Delete", systemImage: "trash")
                                     .symbolVariant(.fill)
                             }
-                            
-                            Button {
-                                todoEdit = todo
-                            } label: {
-                                Label("Edit", systemImage: "pencil")
-                                    .symbolVariant(.fill)
-                            }.tint(.orange)
                         }
                     }
                 }
