@@ -1,6 +1,7 @@
 # Swift Todo app with Swift Data and SwiftUI
 
 ## Todo list
+## Tap on a todo to check / uncheck it
 <img width="332" alt="image" src="https://github.com/DevThibautMonin/swiftdata-todo-app/assets/92627309/067c6480-c25a-4fbb-93c3-d1488fd3655f">
 
 ## Dark mode enabled
@@ -11,7 +12,7 @@
 <img width="335" alt="image" src="https://github.com/DevThibautMonin/swiftdata-todo-app/assets/92627309/b35a134e-77b9-4003-9c5b-7ec745e28d94">
 
 
-## Perform action on a todo
+## Perform actions on a todo
 ## Edit a todo (Swipe right to left)
 <img width="331" alt="image" src="https://github.com/DevThibautMonin/swiftdata-todo-app/assets/92627309/4cb6a5d5-1666-4d8c-af31-ae35ea09aab0">
 
