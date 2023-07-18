@@ -12,12 +12,12 @@
 
 
 ## Perform action on a todo
-<img width="331" alt="image" src="https://github.com/DevThibautMonin/swiftdata-todo-app/assets/92627309/12733979-e8d0-4635-8a6c-591735e8b4e0">
+## Edit a todo (Swipe right to left)
+<img width="331" alt="image" src="https://github.com/DevThibautMonin/swiftdata-todo-app/assets/92627309/4cb6a5d5-1666-4d8c-af31-ae35ea09aab0">
+
+## Edit screen
+<img width="329" alt="image" src="https://github.com/DevThibautMonin/swiftdata-todo-app/assets/92627309/d8aec9b4-27ab-488d-b1b2-8babd58565ee">
 
 
-## Edit a todo
-<img width="332" alt="image" src="https://github.com/DevThibautMonin/swiftdata-todo-app/assets/92627309/59e3d87a-830e-453e-93b7-9407acc9c013">
-
-
-## Delete a todo
-<img width="330" alt="image" src="https://github.com/DevThibautMonin/swiftdata-todo-app/assets/92627309/cced0856-d2e3-4cc3-8d1a-8b3d1adf5d85">
+## Delete a todo (Swipe left to right)
+<img width="328" alt="image" src="https://github.com/DevThibautMonin/swiftdata-todo-app/assets/92627309/d52eeb63-c108-4484-b989-d3546c45563e">
