@@ -4,8 +4,9 @@
 ## Tap on a todo to check / uncheck it
 <img width="332" alt="image" src="https://github.com/DevThibautMonin/swiftdata-todo-app/assets/92627309/067c6480-c25a-4fbb-93c3-d1488fd3655f">
 
-## Dark mode enabled
-<img width="334" alt="image" src="https://github.com/DevThibautMonin/swiftdata-todo-app/assets/92627309/210519f4-340c-4112-8900-b8f866308e5f">
+## Toggle dark mode
+<img width="328" alt="image" src="https://github.com/DevThibautMonin/swiftdata-todo-app/assets/92627309/1ca9b445-383c-4ca9-88a1-9fc6f5e5a100">
+
 
 
 ## Add a todo
